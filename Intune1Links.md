@@ -61,8 +61,8 @@ Welcome to the amazing link collection to your Intune Workshop!
 
 ## 💾 App-Installation
 - 🔗 [Win32 App Management](https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-app-management)
-- 🔗 [Best Practices with PSADT](https://www.deploymentshare.com/post/bp-psadt/)
-- 🔗 [PSADT + Intune Guide](https://www.deploymentshare.com/post/bp-psadtintune/)
+- 🔗 [Best Practices with PSADT](https://deploymentshare.com/articles/bp-psadt/)
+- 🔗 [PSADT + Intune Guide](https://www.deploymentshare.com/articles/bp-psadtintune/)
 - 🔗 [User-Interactive App Deployment](https://svdbusse.github.io/SemiAnnualChat/2019/09/14/User-Interactive-Win32-Intune-App-Deployment-with-PSAppDeployToolkit.html)
 - 🔗 [Installing Visio via PSADT](https://365bythijs.be/2019/09/19/installing-visio-onto-an-existing-office-installation-with-psadt-and-intune/)
 - 🔗 [Win32App Migration Tool](https://byteben.com/bb/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/)
