@@ -1,5 +1,7 @@
 # 📋 Intune Workshop Link Collection
 
+![Link Checker](https://github.com/happelm/intuneworkshops/actions/workflows/link-checker.yml/badge.svg)
+
 Welcome to the **Intune Workshop Link Collection** repository!  
 Here you'll find a **structured collection** of essential resources for Microsoft Intune, Windows management, Endpoint Analytics, and related technologies.
 
