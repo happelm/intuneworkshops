@@ -1,46 +1,46 @@
-# 📋 Intune Workshop Linksammlung
+# 📋 Intune Workshop Link Collection
 
-Willkommen im Repository zur **Intune Workshop Linkübersicht**!  
-Hier findest du eine **strukturierte Sammlung** aller wichtigen Links rund um Microsoft Intune, Windows Management, Endpoint Analytics und verwandte Technologien.
-
----
-
-## 📚 Inhalte
-
-- 🎯 Aktuelle offizielle Microsoft-Dokumentationen
-- 🎯 Tutorials, Guides und Best Practices
-- 🎯 Community-Tools und Blogbeiträge
-- 🎯 Ressourcen für Autopilot, App-Deployment, Entra ID Connect uvm.
-
-Alle Links sind nach Themengebieten geordnet und werden regelmäßig geprüft.
+Welcome to the **Intune Workshop Link Collection** repository!  
+Here you'll find a **structured collection** of essential resources for Microsoft Intune, Windows management, Endpoint Analytics, and related technologies.
 
 ---
 
-## 🛠️ Automatische Linkprüfung
+## 📚 Contents
 
-Dieses Repository nutzt **GitHub Actions** zur täglichen automatischen Überprüfung aller Links.  
-Sollte ein Link ungültig werden, wird automatisch ein Issue erstellt.
+- 🎯 Official Microsoft documentation
+- 🎯 Tutorials, guides, and best practices
+- 🎯 Community tools and blog posts
+- 🎯 Resources for Autopilot, App Deployment, Entra ID Connect, and more
 
----
-
-## 🔧 Nutzung
-
-- Einfach die [Intune Linksammlung](./Intune-Links.md) aufrufen.
-- Direkt auf die verlinkten Ressourcen zugreifen.
-- Neue Links? ➔ Über Pull Request oder direkt ergänzen.
+All links are categorized and regularly verified.
 
 ---
 
-## 🤝 Mitmachen
+## 🛠️ Automatic Link Checking
 
-Beiträge sind willkommen!  
-Ergänze neue, hilfreiche Links oder aktualisiere bestehende Ressourcen über einen **Pull Request**.
+This repository uses **GitHub Actions** to perform daily automatic link checks.  
+If a link becomes invalid, an issue is automatically created.
 
 ---
 
-## 📜 Lizenz
+## 🔧 Usage
 
-Dieses Repository steht unter der **MIT-Lizenz**.  
-Feel free to use, adapt and share!
+- Open the [Intune Link Collection](./Intune-Links.md).
+- Access linked resources directly.
+- New links? ➔ Submit a Pull Request or update the file directly.
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to add new useful links or update existing ones via a **Pull Request**.
+
+---
+
+## 📜 License
+
+This repository is licensed under the **MIT License**.  
+Feel free to use, adapt, and share!
 
 ---
