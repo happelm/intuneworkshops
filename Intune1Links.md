@@ -92,9 +92,6 @@ Welcome to the amazing link collection to your Intune Workshop!
 - 🔗 [Intune Management Extension Overview](https://learn.microsoft.com/en-us/mem/intune/apps/intune-management-extension)
 - 🔗 **Logs:** `C:\ProgramData\Microsoft\IntuneManagementExtension\Logs`
 
-## 📊 Endpoint Analytics
-- 🔗 [Endpoint Analytics Portal](https://aka.ms/endpointanalytics)
-
 ## 🛡️ BitLocker (Migration)
 - 🔗 [Encrypt Devices with Intune](https://learn.microsoft.com/en-us/mem/intune/protect/encrypt-devices)
 - 🔗 [BitLocker Configuration via Endpoint Security](https://techcommunity.microsoft.com/t5/intune-customer-success/configuring-bitlocker-encryption-with-endpoint-security/ba-p/2283101)
