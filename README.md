@@ -25,7 +25,6 @@ If a link becomes invalid, an issue is automatically created.
 
 ## 🔧 Usage
 
-- Open the [Intune Link Collection](./Intune-Links.md).
 - Access linked resources directly.
 - New links? ➔ Submit a Pull Request or update the file directly.
 
