@@ -1,6 +1,6 @@
 # 🌐 Intune 1 - Link Collection
 
-Welcome to the amazing link collection to your Intune Workshop!
+Welcome to the amazing collection of links for your Intune Workshop!
 
 ---
 
