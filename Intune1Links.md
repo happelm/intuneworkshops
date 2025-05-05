@@ -19,6 +19,7 @@ Welcome to the amazing collection of links for your Intune Workshop!
 ## 💸 Licensing Information
 - 🔗 [Compare EMS Plans](https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing)
 - 🔗 [Compare Microsoft 365 Enterprise Plans](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+- 🔗 [Microsoft Licensing](https://m365maps.com)
 
 ## 👤 Intune User Help
 - 🔗 [Help for End Users](https://learn.microsoft.com/en-us/mem/intune/user-help/)
