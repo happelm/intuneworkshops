@@ -59,6 +59,7 @@ Welcome to the amazing collection of links for your Intune Workshop!
 
 ## 👥 User Groups vs. Device Groups
 - 🔗 [Device vs. User Scope Settings](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting#device-scope-vs-user-scope-settings)
+- 🔗 [Windows Release Information](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information))
 
 ## 💾 App-Installation
 - 🔗 [Win32 App Management](https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-app-management)
