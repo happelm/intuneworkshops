@@ -1,6 +1,6 @@
 # 🌐 Intune 1 - Link Collection
 
-Welcome to the amazing collection of links for your Intune Workshop!
+Welcome to the curated list of core resources for Microsoft Intune. This is the first part of the Intune workshop series and provides foundational links across modern desktop deployment, user help, licensing, platform integration, and device configuration.
 
 ---
 
