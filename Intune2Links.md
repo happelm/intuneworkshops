@@ -1,4 +1,4 @@
-# 🌐 Intune 2 - Link Collection
+# 🌐 Intune Advanced - Link Collection
 
 Welcome to the amazing collection of links for your Intune Workshop!
 
