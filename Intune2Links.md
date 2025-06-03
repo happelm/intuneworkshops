@@ -1,6 +1,6 @@
 # 🌐 Intune Advanced - Link Collection
 
-Welcome to the curated list of resources for troubleshooting Microsoft Intune environments. This is the second part of the Intune workshop series and focuses on deeper management, integration, automation scenarios, and cross-platform support for macOS, Linux, and mobile.
+Welcome to the curated list of resources for advanced Microsoft Intune environments. This is the second part of the Intune workshop series and focuses on deeper management, integration, automation scenarios, and cross-platform support for macOS, Linux, and mobile.
 
 ---
 
