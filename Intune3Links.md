@@ -58,6 +58,7 @@ Welcome to the curated list of resources for troubleshooting Microsoft Intune en
 - [WUfB Config Guide](https://www.systemcenterdudes.com/configure-windows-update-for-business-reporting/)
 - [WUfB Custom Reporting](https://docs.smsagent.blog/microsoft-endpoint-manager-reporting/windows-update-for-business-custom-reporting)
 - [Update Primary User via PowerShell](https://www.tbone.se/2023/02/16/update-intune-primary-user-with-powershell-or-azure-automation/)
+- [Windows Upgrade Log Files](https://learn.microsoft.com/en-us/windows/deployment/upgrade/log-files)
 
 ## 🧷 SSO to On-Prem & Azure Files
 - [FIDO2 for On-Premises](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-authentication-passwordless-security-key-on-premises)
