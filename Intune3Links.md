@@ -40,11 +40,12 @@ Welcome to the curated list of resources for troubleshooting Microsoft Intune en
 
 ## 💻 Troubleshooting Script Deployment
 - [Troubleshooting PowerShell Scripts in Intune](https://www.velessoftware.com/troubleshooting-intune-powershell-scripts/)
+- [How to sign Powershell Scripts](https://www.gradenegger.eu/en/code-signature-for-powershell-script-files/)
 
 ## 🔐 Security Templates & Endpoint Security
 - [Security Baselines Overview](https://learn.microsoft.com/en-us/mem/intune/protect/security-baselines)
-- [All Security Settings – MDM](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-23h2)
-- [Security Baseline 23H2 Overview](https://emsroute.com/2024/04/03/security-baseline-23h2/)
+- [All Security Settings – MDM](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-24h2)
+- [Security Baseline Upgrade](https://emsroute.com/2024/04/03/security-baseline-23h2/)
 - [Security Baselines (Rami T.)](https://ramitamminen.com/?p=17)
 - [Trace Endpoint Security](https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-trace-and-troubleshoot-the-intune-endpoint-security/ba-p/3261452)
 
