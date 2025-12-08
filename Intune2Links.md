@@ -74,6 +74,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 - [macOS Samples GitHub](https://github.com/microsoft/shell-intune-samples/tree/master/macOS)
 - [Enterprise SSO for macOS](https://learn.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-macos-with-intune)
 - [Platform SSO for macOS Deep Dive](https://intuneirl.com/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/)
+- [Reading MacOS Logfiles](https://github.com/gilburns/IntuneLogWatch)
 
 ## 🐧 Linux Management
 - [Linux Compliance with Intune](https://www.petervanderwoude.nl/post/getting-started-with-compliance-for-linux-devices/)
