@@ -41,6 +41,7 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [Dedicated Devices Enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
 - 🔗 [Samsung Knox Mobile Enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/android-samsung-knox-mobile-enroll)
 - 🔗 [QR Code Generator](https://bayton.org/qr-generator/)
+- 🔗 [Defender for Endpoint Config with Samsung Knox Service Plugin] (https://www.oddsandendpoints.co.uk/posts/android-enterprise-defender-onboarding/)
 
 ## 📸 iOS Enrollment
 - 🔗 [Renew Apple Push Certificate](https://haydog.tech.blog/2022/09/08/how-to-renew-apple-push-notification-certificate-in-microsoft-intune/)
@@ -123,3 +124,4 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [Windows CIS Patching Gaps](https://www.oddsandendpoints.co.uk/posts/windows-cis-patching-gaps-part1/)
 
 ---
+
