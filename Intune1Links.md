@@ -50,9 +50,9 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [Device Enrollment Program for iOS](https://learn.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
 
 ## 📅 Mobile Application Management
-- 🔗 []()
-- 🔗 []()
-- 🔗 []()
+- 🔗 [Microsoft Edge Mobile - Policies](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-mobile-policies)
+- 🔗 [Manage Microsoft Edge on iOS and Android With Intune](https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge)
+- 🔗 [Manage Messaging Collaboration Access by Using Outlook for iOS and Android With Microsoft Intune](https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-outlook)
 
 ## 🛋️ Hybrid Join
 - 🔗 [Hybrid Azure AD Join Managed Domains](https://learn.microsoft.com/en-us/azure/active-directory/devices/hybrid-azuread-join-managed-domains)
@@ -131,5 +131,6 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 ---
 
 - 🔗 []()
+
 
 
