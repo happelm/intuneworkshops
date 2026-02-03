@@ -48,6 +48,10 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [iOS User Enrollment Supported Actions](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-user-enrollment-supported-actions)
 - 🔗 [iOS Device Enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-device-enrollment)
 - 🔗 [Device Enrollment Program for iOS](https://learn.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
+
+## 📅 Mobile Application Management
+- 🔗 []()
+- 🔗 []()
 - 🔗 []()
 
 ## 🛋️ Hybrid Join
@@ -126,5 +130,6 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 
 ---
 
+- 🔗 []()
 
 
