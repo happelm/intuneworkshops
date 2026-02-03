@@ -43,11 +43,12 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [QR Code Generator](https://bayton.org/qr-generator/)
 - 🔗 [Defender for Endpoint Config with Samsung Knox Service Plugin](https://www.oddsandendpoints.co.uk/posts/android-enterprise-defender-onboarding/)
 
-## 📸 iOS Enrollment
+## 📸 iOS Management
 - 🔗 [Renew Apple Push Certificate](https://haydog.tech.blog/2022/09/08/how-to-renew-apple-push-notification-certificate-in-microsoft-intune/)
 - 🔗 [iOS User Enrollment Supported Actions](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-user-enrollment-supported-actions)
 - 🔗 [iOS Device Enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-device-enrollment)
 - 🔗 [Device Enrollment Program for iOS](https://learn.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
+- 🔗 []()
 
 ## 🛋️ Hybrid Join
 - 🔗 [Hybrid Azure AD Join Managed Domains](https://learn.microsoft.com/en-us/azure/active-directory/devices/hybrid-azuread-join-managed-domains)
@@ -124,5 +125,6 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [Windows CIS Patching Gaps](https://www.oddsandendpoints.co.uk/posts/windows-cis-patching-gaps-part1/)
 
 ---
+
 
 
