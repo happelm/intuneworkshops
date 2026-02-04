@@ -133,6 +133,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 - [Create Local Admin with PowerShell](https://cloudinfra.net/create-a-local-admin-using-intune-and-powershell/)
 - [PrintNightmare Vulnerability](https://anthonyfontanez.com/index.php/2021/08/12/printnightmare-point-and-print/)
 - [Point and Print in Intune](https://scloud.work/point-and-print-intune/)
+- [Intune Conflicts on Local User Group Policies](https://skotheimsvik.no/intune-conflicts-on-local-user-group-policies)
 
 ## 📜 Script Examples
 - [Script Repository (GitHub)](https://github.com/petripaavola/Intune)
