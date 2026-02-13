@@ -70,6 +70,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 
 ## 🍏 macOS Management
 - [IntuneMacAdmins](https://www.intunemacadmins.com/home/getting_started/)
+- [Intune my Macs](https://techcommunity.microsoft.com/blog/intunecustomersuccess/intune-my-macs-accelerating-macos-proof-of-concepts-with-microsoft-intune/4488571)
 - [Comprehensive macOS Guide](https://oliverkieselbach.com/2021/07/14/comprehensive-guide-to-managing-macos-with-intune/)
 - [Deploy macOS DMG App](https://sccmentor.com/2022/01/30/deploying-a-macos-dmg-app-via-intune/)
 - [macOS Samples GitHub](https://github.com/microsoft/shell-intune-samples/tree/master/macOS)
