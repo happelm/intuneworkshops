@@ -69,12 +69,14 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 - [Chrome Enterprise Connector Setup](https://hmaslowski.com/all-my-posts/f/chrome-enterprise-connector-setup-for-microsoft-intune)
 
 ## 🍏 macOS Management
+- [IntuneMacAdmins](https://www.intunemacadmins.com/home/getting_started/)
 - [Comprehensive macOS Guide](https://oliverkieselbach.com/2021/07/14/comprehensive-guide-to-managing-macos-with-intune/)
 - [Deploy macOS DMG App](https://sccmentor.com/2022/01/30/deploying-a-macos-dmg-app-via-intune/)
 - [macOS Samples GitHub](https://github.com/microsoft/shell-intune-samples/tree/master/macOS)
 - [Enterprise SSO for macOS](https://learn.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-macos-with-intune)
 - [Platform SSO for macOS Deep Dive](https://intuneirl.com/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/)
 - [Reading MacOS Logfiles](https://github.com/gilburns/IntuneLogWatch)
+
 
 ## 🐧 Linux Management
 - [Linux Compliance with Intune](https://www.petervanderwoude.nl/post/getting-started-with-compliance-for-linux-devices/)
