@@ -141,6 +141,6 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 ## 📜 Script Examples
 - [Script Repository (GitHub)](https://github.com/petripaavola/Intune)
 - [Intune Backup and Restore (GitHub)](https://github.com/jseerden/IntuneBackupAndRestore)
-- [Intune Hydration Kit])https://www.intunehydrationkit.com/)
+- [Intune Hydration Kit](https://www.intunehydrationkit.com/)
 
 ---
