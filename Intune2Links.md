@@ -140,5 +140,6 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 
 ## 📜 Script Examples
 - [Script Repository (GitHub)](https://github.com/petripaavola/Intune)
+- [Intune Backup and Restore (GitHub)](https://github.com/jseerden/IntuneBackupAndRestore)
 
 ---
