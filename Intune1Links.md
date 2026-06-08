@@ -85,8 +85,8 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [Add Devices to Autopilot Faster](https://robinhobo.com/how-to-add-windows-10-devices-to-windows-autopilot-even-faster/)
 - 🔗 [Autopilot Manager](https://oliverkieselbach.com/2020/12/08/autopilot-manager/)
 
-## 👁️ Intune Powershell
-- 🔗 [Intune PowerShell SDK](https://github.com/Microsoft/Intune-PowerShell-SDK/)
+## 👁️ Default Policies
+- 🔗 [Intune Hydration Kit](https://www.intunehydrationkit.com/)
 
 ## 🔐 Password Reset & Policies
 - 🔗 [Windows Self-Service Password Reset](https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-windows)
