@@ -48,6 +48,7 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 - 🔗 [iOS User Enrollment Supported Actions](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-user-enrollment-supported-actions)
 - 🔗 [iOS Device Enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/ios-device-enrollment)
 - 🔗 [Device Enrollment Program for iOS](https://learn.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
+- 🔗 ["Apple Configurator" for Windows](https://imazing.com/profile-editor)
 
 ## 📅 Mobile Application Management
 - 🔗 [Microsoft Edge Mobile - Policies](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-mobile-policies)
