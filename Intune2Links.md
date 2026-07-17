@@ -48,7 +48,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 
 ## 📦 Windows Package Manager
 - [WinGet Wrapper](https://github.com/SorenLundt/WinGet-Wrapper)
-- [Winget AutoUpdate with Intune](https://github.com/Weatherlights/Winget-AutoUpdate-Intune)
+- [Winget AutoUpdate](https://github.com/Romanitho/Winget-autoupdate)
 - [winget.run](https://winget.run/)
 - [Winget with PSADT and Intune](https://scloud.work/winget-deployment-with-psappdeploytoolkit-and-intune/)
 
@@ -143,5 +143,9 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 - [Intune Backup and Restore (GitHub)](https://github.com/jseerden/IntuneBackupAndRestore)
 - [Intune Hydration Kit](https://www.intunehydrationkit.com/)
 - [Intune Management - Micke-K (Github)](https://github.com/Micke-K/IntuneManagement)
+
+## 📦 Community Content
+- [Intune Get](https://www.intuneget.com/)
+- [Search all community Intune content]https://www.awesomeintune.com/
 
 ---
