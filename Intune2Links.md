@@ -146,6 +146,6 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 
 ## 📦 Community Content
 - [Intune Get](https://www.intuneget.com/)
-- [Search all community Intune content](https://www.awesomeintune.com/)
+- [Search all Intune community content](https://www.awesomeintune.com/)
 
 ---
