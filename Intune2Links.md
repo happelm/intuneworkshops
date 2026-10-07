@@ -45,6 +45,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 - [Intune Enhanced Inventory (GitHub)](https://github.com/MSEndpointMgr/IntuneEnhancedInventory/tree/main)
 - [Dynamic Device Collections](https://stealthpuppy.com/dynamic-device-collections-intune/)
 - [Remediation Scripts (GitHub)](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts)
+- [Win32 App Remediation](https://sastu-insights.com/posts/The-Poor-Mans-Remediation-Win32-Apps-for-Tenants-Without-Remediation-Licenses/)
 
 ## 📦 Windows Package Manager
 - [WinGet Wrapper](https://github.com/SorenLundt/WinGet-Wrapper)
