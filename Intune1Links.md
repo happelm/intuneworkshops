@@ -131,7 +131,5 @@ Welcome to the curated list of core resources for Microsoft Intune. This is the 
 
 ---
 
-- 🔗 []()
-
 
 
