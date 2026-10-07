@@ -125,6 +125,7 @@ Welcome to the curated list of resources for advanced Microsoft Intune environme
 
 ## 🧩 Bridging Classic and Modern Management
 - [Drive Mapping Tool](https://intunedrivemapping.azurewebsites.net/)
+- [Drive and Printer Mapping](https://sastu-insights.com/posts/Part-1-Using-Active-Directory-Information-on-Cloud-Only-Devices-to-Map-Printers-and-Shares/)
 - [Map Printers with Intune](https://www.wpninjas.ch/2022/02/map-printers-with-intune/)
 - [Deploy Okta Extension](https://sccmentor.com/2023/03/23/deploying-the-okta-extension-to-edge-and-chrome-via-intune/)
 - [Create Dynamic AAD Groups](https://www.larsinus.com/?p=353)
