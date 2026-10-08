@@ -7,7 +7,15 @@ Here you'll find a **structured collection** of essential resources for Microsof
 
 ---
 
-## 📚 Contents
+## 📚 Link Collections
+
+| Workshop | Focus |
+|---|---|
+| [Intune 1](Intune1Links.md) | Fundamentals: identity, enrollment, Autopilot, apps, configuration |
+| [Intune Advanced](Intune2Links.md) | Advanced scenarios: EPM, LAPS, certificates, remediations, macOS, Linux, Graph |
+| [Intune Troubleshooting](Intune3Links.md) | Diagnostics, log files, policy and app deployment troubleshooting |
+
+## 📖 Contents
 
 - 🎯 Official Microsoft documentation
 - 🎯 Tutorials, guides, and best practices
