@@ -1,0 +1,2 @@
+# Hosts that block the GitHub Actions runner (HTTP 403) although the page exists
+^https://community\.fabric\.microsoft\.com/
