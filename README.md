@@ -16,10 +16,10 @@ Here you'll find a **structured collection** of essential resources for Microsof
 
 ## 📖 Contents
 
-- 🎯 Official Microsoft documentation
-- 🎯 Tutorials, guides, and best practices
-- 🎯 Community tools and blog posts
-- 🎯 Resources for Autopilot, App Deployment, Entra ID Connect, and more
+-  Official Microsoft documentation
+-  Tutorials, guides, and best practices
+-  Community tools and blog posts
+-  Resources for Autopilot, App Deployment, Entra ID Connect, and more
 
 All links are categorized and regularly verified.
 
