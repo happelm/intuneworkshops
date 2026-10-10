@@ -55,7 +55,7 @@ Lab instructions for the course: [happelm.github.io/SCMI](https://happelm.github
 
 ## 📜 Policy Migration & Conflicts
 - [Import and Analyze Group Policies](https://learn.microsoft.com/en-us/intune/device-configuration/import-group-policy-analytics)
-- [Migrate Imported Group Policy to Intune](https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics-migrate)
+- [Migrate Imported Group Policy to Intune](https://learn.microsoft.com/en-us/intune/device-configuration/migrate-group-policy)
 - [Settings Catalog](https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/)
 - [ControlPolicyConflict Policy CSP (MDMWinsOverGP)](https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-controlpolicyconflict)
 - [Remediations](https://learn.microsoft.com/en-us/intune/device-management/tools/deploy-remediations)
@@ -72,15 +72,15 @@ Lab instructions for the course: [happelm.github.io/SCMI](https://happelm.github
 - [Prepare a Win32 App for Upload](https://learn.microsoft.com/en-us/intune/app-management/deployment/create-win32-package)
 - [Add and Assign Win32 Apps](https://learn.microsoft.com/en-us/intune/app-management/deployment/add-win32)
 - [Win32 App Flow: Deployment, Delivery and Processing](https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/develop-deliver-working-win32-app-via-intune)
-- [Understand the Intune Management Extension](https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension)
+- [Understand the Intune Management Extension](https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows)
 - [Add the Windows Company Portal App](https://learn.microsoft.com/en-us/intune/app-management/deployment/add-company-portal-windows)
 - [Win32App Migration Tool (MSEndpointMgr)](https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/)
 - [Win32App Migration Tool (PowerShell Gallery)](https://www.powershellgallery.com/packages/Win32AppMigrationTool/)
 
 ## 🏭 App Factory: PSAppDeployToolkit
-- [PSAppDeployToolkit: Creating a New Deployment](https://psappdeploytoolkit.com/docs/getting-started/creating-a-new-deployment)
+- [PSAppDeployToolkit: Getting Started](https://psappdeploytoolkit.com/docs/category/getting-started)
+- [PSAppDeployToolkit: How to Create a New Deployment](https://psappdeploytoolkit.com/docs/how-to/create-a-deployment)
 - [PSAppDeployToolkit: New-ADTTemplate](https://psappdeploytoolkit.com/docs/reference/functions/New-ADTTemplate)
-- [PSAppDeployToolkit Release Notes](https://psappdeploytoolkit.com/docs/getting-started/release-notes)
 - [PSAppDeployToolkit Releases (GitHub)](https://github.com/psappdeploytoolkit/psappdeploytoolkit/releases)
 - [PSADT v3 to v4 Cheat Sheet (Community)](https://discourse.psappdeploytoolkit.com/t/psadt-v3-to-v4-cheatsheat/5930)
 
