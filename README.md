@@ -10,7 +10,7 @@ Here you'll find a **structured collection** of essential resources for Microsof
 
 | Workshop | Focus |
 |---|---|
-| [Intune 1](Intune1Links.md) | Fundamentals: identity, enrollment, Autopilot, apps, configuration |
+| [Intune Basics](Intune1Links.md) | Fundamentals: identity, enrollment, Autopilot, apps, configuration |
 | [Intune Advanced](Intune2Links.md) | Advanced scenarios: EPM, LAPS, certificates, remediations, macOS, Linux, Graph |
 | [Intune Troubleshooting](Intune3Links.md) | Diagnostics, log files, policy and app deployment troubleshooting |
 | [SCMI – ConfigMgr to Intune Migration](SCMILinks.md) | Co-management, tenant attach, cloud-first clients, workload authority, policy and app migration, updates, clean sweep |
