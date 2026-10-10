@@ -78,7 +78,6 @@ Lab instructions for the course: [happelm.github.io/SCMI](https://happelm.github
 - [Win32App Migration Tool (PowerShell Gallery)](https://www.powershellgallery.com/packages/Win32AppMigrationTool/)
 
 ## 🏭 App Factory: PSAppDeployToolkit
-- [PSAppDeployToolkit: Getting Started](https://psappdeploytoolkit.com/docs/category/getting-started)
 - [PSAppDeployToolkit: How to Create a New Deployment](https://psappdeploytoolkit.com/docs/how-to/create-a-deployment)
 - [PSAppDeployToolkit: New-ADTTemplate](https://psappdeploytoolkit.com/docs/reference/functions/New-ADTTemplate)
 - [PSAppDeployToolkit Releases (GitHub)](https://github.com/psappdeploytoolkit/psappdeploytoolkit/releases)
